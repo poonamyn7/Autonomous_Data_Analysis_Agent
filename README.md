@@ -116,3 +116,9 @@ python -m pytest -q
 2. Add classification when the target is categorical.
 3. Add time-series detection for date columns.
 4. Deploy free on Streamlit Community Cloud (push to GitHub, select `app.py`).
+
+## Screenshots
+![Overview](screenshots/overview.png)
+![EDA](screenshots/eda.png)
+![Machine Learning](screenshots/ml.png)
+![Ask AI](screenshots/ask.png)
