@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+# generated reports
+autonomous_data_analysis_report*.pdf
+autonomous_data_analysis_report*.md
