@@ -1,7 +1,9 @@
 # 🤖 Autonomous Data Analysis Agent
 
 Upload any CSV file (or **many files, a ZIP of folders, or a whole folder path**) and the agent **decides what analysis to run, runs it, explains the
-results in plain English, answers your questions and writes a PDF report** — with no manual setup.
+results in plain English, answers your questions and writes a PDF report** — with no manual setup. 
+
+🔗 **Live app:** https://autonomousdataanalysisagent-9gvyncpakdb5umzdfnlima.streamlit.app/
 
 ## What it does
 
